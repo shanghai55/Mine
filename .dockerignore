@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+.gradio
+.git
+.env
+data/persona-studio.pid
+data/persona-studio.port
+data/persona-studio.log
+data/persona-studio.state.json
+data/persona-studio.urls.json
+_test_*.py
